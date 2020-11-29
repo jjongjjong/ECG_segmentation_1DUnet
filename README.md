@@ -1,7 +1,7 @@
 This is code for ECG segmentaion using 1 dimensional U-net    
 I refered the paper "Deep Learning for ECG Segmentation"[[paper](https://arxiv.org/pdf/2001.04689.pdf)]    
 
-Lobachevsky University Electrocardiography Database (LUDB) was used for ECG segmentaion task. 
+Lobachevsky University Electrocardiography Database (LUDB) was used for ECG segmentaion task. [link](https://physionet.org/content/ludb/1.0.0/)
 
 It contains 12 lead ECG data from 200 patients for 10 senconds. 
 I preprocessed and extracted ECG segments and its code was included in notebook. 
@@ -20,6 +20,6 @@ The results of ECG segmenation
 ![result1]('./../png/result4.png)
 
 ----------------------------------
-Ajou University, Republic of Korea
-Computational Medical Intelligence (CMI) Lab
+Ajou University, Republic of Korea    
+Computational Medical Intelligence (CMI) Lab    
 E-mail : jangood1122@gmail.com
